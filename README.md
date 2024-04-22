@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Structures and Algorithms<br>👯 I’m looking to collaborate on Flutter and Data Science Projects<br>🤝 I’m looking for help with Java/SpringBoot <br>🌱 I’m currently learning Data Science with Python<br>💬 Ask me about finding newer technologies?<br>⚡ Fun fact - Ping me on LinkedIn than Instagram!
+🔭 I’m currently working on Data Structures and Algorithms<br>👯 I’m looking to collaborate on Flutter and Data Science Projects<br>🤝 I’m looking for help with Java/SpringBoot <br>🌱 I’m currently learning Data Analytics with Python, SQL, Analytic Tools<br>💬 Ask me about finding newer technologies?<br>⚡ Fun fact - Ping me on LinkedIn than Instagram!
 
 
 ## 🌐 Socials:
